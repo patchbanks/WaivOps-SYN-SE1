@@ -1,0 +1,5005 @@
+{
+    "directory": "syn_se1_id_001_wav",
+    "files": [
+        {
+            "file": "syn_se1_preset_01_01_C2.wav",
+            "preset": "01",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_01_02_C#2.wav",
+            "preset": "01",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_01_03_D2.wav",
+            "preset": "01",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_01_04_D#2.wav",
+            "preset": "01",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_01_05_E2.wav",
+            "preset": "01",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_01_06_F2.wav",
+            "preset": "01",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_01_07_F#2.wav",
+            "preset": "01",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_01_08_G2.wav",
+            "preset": "01",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_01_09_G#2.wav",
+            "preset": "01",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_01_10_A2.wav",
+            "preset": "01",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_01_11_A#2.wav",
+            "preset": "01",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_01_12_B2.wav",
+            "preset": "01",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_01_13_C3.wav",
+            "preset": "01",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_01_14_C#3.wav",
+            "preset": "01",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_01_15_D3.wav",
+            "preset": "01",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_01_16_D#3.wav",
+            "preset": "01",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_01_17_E3.wav",
+            "preset": "01",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_01_18_F3.wav",
+            "preset": "01",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_01_19_F#3.wav",
+            "preset": "01",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_01_20_G3.wav",
+            "preset": "01",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_01_21_G#3.wav",
+            "preset": "01",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_01_22_A3.wav",
+            "preset": "01",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_01_23_A#3.wav",
+            "preset": "01",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_01_24_B3.wav",
+            "preset": "01",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_01_25_C4.wav",
+            "preset": "01",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_02_01_C1.wav",
+            "preset": "02",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_02_02_C#1.wav",
+            "preset": "02",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_02_03_D1.wav",
+            "preset": "02",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_02_04_D#1.wav",
+            "preset": "02",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_02_05_E1.wav",
+            "preset": "02",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_02_06_F1.wav",
+            "preset": "02",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_02_07_F#1.wav",
+            "preset": "02",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_02_08_G1.wav",
+            "preset": "02",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_02_09_G#1.wav",
+            "preset": "02",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_02_10_A1.wav",
+            "preset": "02",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_02_11_A#1.wav",
+            "preset": "02",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_02_12_B1.wav",
+            "preset": "02",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_02_13_C2.wav",
+            "preset": "02",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_02_14_C#2.wav",
+            "preset": "02",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_02_15_D2.wav",
+            "preset": "02",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_02_16_D#2.wav",
+            "preset": "02",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_02_17_E2.wav",
+            "preset": "02",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_02_18_F2.wav",
+            "preset": "02",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_02_19_F#2.wav",
+            "preset": "02",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_02_20_G2.wav",
+            "preset": "02",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_02_21_G#2.wav",
+            "preset": "02",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_02_22_A2.wav",
+            "preset": "02",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_02_23_A#2.wav",
+            "preset": "02",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_02_24_B2.wav",
+            "preset": "02",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_02_25_C3.wav",
+            "preset": "02",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_03_01_C2.wav",
+            "preset": "03",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_03_02_C#2.wav",
+            "preset": "03",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_03_03_D2.wav",
+            "preset": "03",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_03_04_D#2.wav",
+            "preset": "03",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_03_05_E2.wav",
+            "preset": "03",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_03_06_F2.wav",
+            "preset": "03",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_03_07_F#2.wav",
+            "preset": "03",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_03_08_G2.wav",
+            "preset": "03",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_03_09_G#2.wav",
+            "preset": "03",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_03_10_A2.wav",
+            "preset": "03",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_03_11_A#2.wav",
+            "preset": "03",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_03_12_B2.wav",
+            "preset": "03",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_03_13_C3.wav",
+            "preset": "03",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_03_14_C#3.wav",
+            "preset": "03",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_03_15_D3.wav",
+            "preset": "03",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_03_16_D#3.wav",
+            "preset": "03",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_03_17_E3.wav",
+            "preset": "03",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_03_18_F3.wav",
+            "preset": "03",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_03_19_F#3.wav",
+            "preset": "03",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_03_20_G3.wav",
+            "preset": "03",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_03_21_G#3.wav",
+            "preset": "03",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_03_22_A3.wav",
+            "preset": "03",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_03_23_A#3.wav",
+            "preset": "03",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_03_24_B3.wav",
+            "preset": "03",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_03_25_C4.wav",
+            "preset": "03",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_04_01_C1.wav",
+            "preset": "04",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_04_02_C#1.wav",
+            "preset": "04",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_04_03_D1.wav",
+            "preset": "04",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_04_04_D#1.wav",
+            "preset": "04",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_04_05_E1.wav",
+            "preset": "04",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_04_06_F1.wav",
+            "preset": "04",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_04_07_F#1.wav",
+            "preset": "04",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_04_08_G1.wav",
+            "preset": "04",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_04_09_G#1.wav",
+            "preset": "04",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_04_10_A1.wav",
+            "preset": "04",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_04_11_A#1.wav",
+            "preset": "04",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_04_12_B1.wav",
+            "preset": "04",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_04_13_C2.wav",
+            "preset": "04",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_04_14_C#2.wav",
+            "preset": "04",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_04_15_D2.wav",
+            "preset": "04",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_04_16_D#2.wav",
+            "preset": "04",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_04_17_E2.wav",
+            "preset": "04",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_04_18_F2.wav",
+            "preset": "04",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_04_19_F#2.wav",
+            "preset": "04",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_04_20_G2.wav",
+            "preset": "04",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_04_21_G#2.wav",
+            "preset": "04",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_04_22_A2.wav",
+            "preset": "04",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_04_23_A#2.wav",
+            "preset": "04",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_04_24_B2.wav",
+            "preset": "04",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_04_25_C3.wav",
+            "preset": "04",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_05_01_C2.wav",
+            "preset": "05",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_05_02_C#2.wav",
+            "preset": "05",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_05_03_D2.wav",
+            "preset": "05",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_05_04_D#2.wav",
+            "preset": "05",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_05_05_E2.wav",
+            "preset": "05",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_05_06_F2.wav",
+            "preset": "05",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_05_07_F#2.wav",
+            "preset": "05",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_05_08_G2.wav",
+            "preset": "05",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_05_09_G#2.wav",
+            "preset": "05",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_05_10_A2.wav",
+            "preset": "05",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_05_11_A#2.wav",
+            "preset": "05",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_05_12_B2.wav",
+            "preset": "05",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_05_13_C3.wav",
+            "preset": "05",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_05_14_C#3.wav",
+            "preset": "05",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_05_15_D3.wav",
+            "preset": "05",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_05_16_D#3.wav",
+            "preset": "05",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_05_17_E3.wav",
+            "preset": "05",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_05_18_F3.wav",
+            "preset": "05",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_05_19_F#3.wav",
+            "preset": "05",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_05_20_G3.wav",
+            "preset": "05",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_05_21_G#3.wav",
+            "preset": "05",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_05_22_A3.wav",
+            "preset": "05",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_05_23_A#3.wav",
+            "preset": "05",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_05_24_B3.wav",
+            "preset": "05",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_05_25_C4.wav",
+            "preset": "05",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_06_01_C2.wav",
+            "preset": "06",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_06_02_C#2.wav",
+            "preset": "06",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_06_03_D2.wav",
+            "preset": "06",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_06_04_D#2.wav",
+            "preset": "06",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_06_05_E2.wav",
+            "preset": "06",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_06_06_F2.wav",
+            "preset": "06",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_06_07_F#2.wav",
+            "preset": "06",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_06_08_G2.wav",
+            "preset": "06",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_06_09_G#2.wav",
+            "preset": "06",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_06_10_A2.wav",
+            "preset": "06",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_06_11_A#2.wav",
+            "preset": "06",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_06_12_B2.wav",
+            "preset": "06",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_06_13_C3.wav",
+            "preset": "06",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_06_14_C#3.wav",
+            "preset": "06",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_06_15_D3.wav",
+            "preset": "06",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_06_16_D#3.wav",
+            "preset": "06",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_06_17_E3.wav",
+            "preset": "06",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_06_18_F3.wav",
+            "preset": "06",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_06_19_F#3.wav",
+            "preset": "06",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_06_20_G3.wav",
+            "preset": "06",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_06_21_G#3.wav",
+            "preset": "06",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_06_22_A3.wav",
+            "preset": "06",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_06_23_A#3.wav",
+            "preset": "06",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_06_24_B3.wav",
+            "preset": "06",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_06_25_C4.wav",
+            "preset": "06",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_07_01_C1.wav",
+            "preset": "07",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_07_02_C#1.wav",
+            "preset": "07",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_07_03_D1.wav",
+            "preset": "07",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_07_04_D#1.wav",
+            "preset": "07",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_07_05_E1.wav",
+            "preset": "07",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_07_06_F1.wav",
+            "preset": "07",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_07_07_F#1.wav",
+            "preset": "07",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_07_08_G1.wav",
+            "preset": "07",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_07_09_G#1.wav",
+            "preset": "07",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_07_10_A1.wav",
+            "preset": "07",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_07_11_A#1.wav",
+            "preset": "07",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_07_12_B1.wav",
+            "preset": "07",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_07_13_C2.wav",
+            "preset": "07",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_07_14_C#2.wav",
+            "preset": "07",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_07_15_D2.wav",
+            "preset": "07",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_07_16_D#2.wav",
+            "preset": "07",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_07_17_E2.wav",
+            "preset": "07",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_07_18_F2.wav",
+            "preset": "07",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_07_19_F#2.wav",
+            "preset": "07",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_07_20_G2.wav",
+            "preset": "07",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_07_21_G#2.wav",
+            "preset": "07",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_07_22_A2.wav",
+            "preset": "07",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_07_23_A#2.wav",
+            "preset": "07",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_07_24_B2.wav",
+            "preset": "07",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_07_25_C3.wav",
+            "preset": "07",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_08_01_C1.wav",
+            "preset": "08",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_08_02_C#1.wav",
+            "preset": "08",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_08_03_D1.wav",
+            "preset": "08",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_08_04_D#1.wav",
+            "preset": "08",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_08_05_E1.wav",
+            "preset": "08",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_08_06_F1.wav",
+            "preset": "08",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_08_07_F#1.wav",
+            "preset": "08",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_08_08_G1.wav",
+            "preset": "08",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_08_09_G#1.wav",
+            "preset": "08",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_08_10_A1.wav",
+            "preset": "08",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_08_11_A#1.wav",
+            "preset": "08",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_08_12_B1.wav",
+            "preset": "08",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_08_13_C2.wav",
+            "preset": "08",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_08_14_C#2.wav",
+            "preset": "08",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_08_15_D2.wav",
+            "preset": "08",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_08_16_D#2.wav",
+            "preset": "08",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_08_17_E2.wav",
+            "preset": "08",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_08_18_F2.wav",
+            "preset": "08",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_08_19_F#2.wav",
+            "preset": "08",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_08_20_G2.wav",
+            "preset": "08",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_08_21_G#2.wav",
+            "preset": "08",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_08_22_A2.wav",
+            "preset": "08",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_08_23_A#2.wav",
+            "preset": "08",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_08_24_B2.wav",
+            "preset": "08",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_08_25_C3.wav",
+            "preset": "08",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_09_01_C2.wav",
+            "preset": "09",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_09_02_C#2.wav",
+            "preset": "09",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_09_03_D2.wav",
+            "preset": "09",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_09_04_D#2.wav",
+            "preset": "09",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_09_05_E2.wav",
+            "preset": "09",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_09_06_F2.wav",
+            "preset": "09",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_09_07_F#2.wav",
+            "preset": "09",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_09_08_G2.wav",
+            "preset": "09",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_09_09_G#2.wav",
+            "preset": "09",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_09_10_A2.wav",
+            "preset": "09",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_09_11_A#2.wav",
+            "preset": "09",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_09_12_B2.wav",
+            "preset": "09",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_09_13_C3.wav",
+            "preset": "09",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_09_14_C#3.wav",
+            "preset": "09",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_09_15_D3.wav",
+            "preset": "09",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_09_16_D#3.wav",
+            "preset": "09",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_09_17_E3.wav",
+            "preset": "09",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_09_18_F3.wav",
+            "preset": "09",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_09_19_F#3.wav",
+            "preset": "09",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_09_20_G3.wav",
+            "preset": "09",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_09_21_G#3.wav",
+            "preset": "09",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_09_22_A3.wav",
+            "preset": "09",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_09_23_A#3.wav",
+            "preset": "09",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_09_24_B3.wav",
+            "preset": "09",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_09_25_C4.wav",
+            "preset": "09",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_10_01_C1.wav",
+            "preset": "10",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_10_02_C#1.wav",
+            "preset": "10",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_10_03_D1.wav",
+            "preset": "10",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_10_04_D#1.wav",
+            "preset": "10",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_10_05_E1.wav",
+            "preset": "10",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_10_06_F1.wav",
+            "preset": "10",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_10_07_F#1.wav",
+            "preset": "10",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_10_08_G1.wav",
+            "preset": "10",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_10_09_G#1.wav",
+            "preset": "10",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_10_10_A1.wav",
+            "preset": "10",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_10_11_A#1.wav",
+            "preset": "10",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_10_12_B1.wav",
+            "preset": "10",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_10_13_C2.wav",
+            "preset": "10",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_10_14_C#2.wav",
+            "preset": "10",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_10_15_D2.wav",
+            "preset": "10",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_10_16_D#2.wav",
+            "preset": "10",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_10_17_E2.wav",
+            "preset": "10",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_10_18_F2.wav",
+            "preset": "10",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_10_19_F#2.wav",
+            "preset": "10",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_10_20_G2.wav",
+            "preset": "10",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_10_21_G#2.wav",
+            "preset": "10",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_10_22_A2.wav",
+            "preset": "10",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_10_23_A#2.wav",
+            "preset": "10",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_10_24_B2.wav",
+            "preset": "10",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_10_25_C3.wav",
+            "preset": "10",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_11_01_C1.wav",
+            "preset": "11",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_11_02_C#1.wav",
+            "preset": "11",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_11_03_D1.wav",
+            "preset": "11",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_11_04_D#1.wav",
+            "preset": "11",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_11_05_E1.wav",
+            "preset": "11",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_11_06_F1.wav",
+            "preset": "11",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_11_07_F#1.wav",
+            "preset": "11",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_11_08_G1.wav",
+            "preset": "11",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_11_09_G#1.wav",
+            "preset": "11",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_11_10_A1.wav",
+            "preset": "11",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_11_11_A#1.wav",
+            "preset": "11",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_11_12_B1.wav",
+            "preset": "11",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_11_13_C2.wav",
+            "preset": "11",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_11_14_C#2.wav",
+            "preset": "11",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_11_15_D2.wav",
+            "preset": "11",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_11_16_D#2.wav",
+            "preset": "11",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_11_17_E2.wav",
+            "preset": "11",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_11_18_F2.wav",
+            "preset": "11",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_11_19_F#2.wav",
+            "preset": "11",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_11_20_G2.wav",
+            "preset": "11",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_11_21_G#2.wav",
+            "preset": "11",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_11_22_A2.wav",
+            "preset": "11",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_11_23_A#2.wav",
+            "preset": "11",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_11_24_B2.wav",
+            "preset": "11",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_11_25_C3.wav",
+            "preset": "11",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_12_01_C1.wav",
+            "preset": "12",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_12_02_C#1.wav",
+            "preset": "12",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_12_03_D1.wav",
+            "preset": "12",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_12_04_D#1.wav",
+            "preset": "12",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_12_05_E1.wav",
+            "preset": "12",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_12_06_F1.wav",
+            "preset": "12",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_12_07_F#1.wav",
+            "preset": "12",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_12_08_G1.wav",
+            "preset": "12",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_12_09_G#1.wav",
+            "preset": "12",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_12_10_A1.wav",
+            "preset": "12",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_12_11_A#1.wav",
+            "preset": "12",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_12_12_B1.wav",
+            "preset": "12",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_12_13_C2.wav",
+            "preset": "12",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_12_14_C#2.wav",
+            "preset": "12",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_12_15_D2.wav",
+            "preset": "12",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_12_16_D#2.wav",
+            "preset": "12",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_12_17_E2.wav",
+            "preset": "12",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_12_18_F2.wav",
+            "preset": "12",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_12_19_F#2.wav",
+            "preset": "12",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_12_20_G2.wav",
+            "preset": "12",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_12_21_G#2.wav",
+            "preset": "12",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_12_22_A2.wav",
+            "preset": "12",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_12_23_A#2.wav",
+            "preset": "12",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_12_24_B2.wav",
+            "preset": "12",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_12_25_C3.wav",
+            "preset": "12",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_13_01_C1.wav",
+            "preset": "13",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_13_02_C#1.wav",
+            "preset": "13",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_13_03_D1.wav",
+            "preset": "13",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_13_04_D#1.wav",
+            "preset": "13",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_13_05_E1.wav",
+            "preset": "13",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_13_06_F1.wav",
+            "preset": "13",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_13_07_F#1.wav",
+            "preset": "13",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_13_08_G1.wav",
+            "preset": "13",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_13_09_G#1.wav",
+            "preset": "13",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_13_10_A1.wav",
+            "preset": "13",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_13_11_A#1.wav",
+            "preset": "13",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_13_12_B1.wav",
+            "preset": "13",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_13_13_C2.wav",
+            "preset": "13",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_13_14_C#2.wav",
+            "preset": "13",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_13_15_D2.wav",
+            "preset": "13",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_13_16_D#2.wav",
+            "preset": "13",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_13_17_E2.wav",
+            "preset": "13",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_13_18_F2.wav",
+            "preset": "13",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_13_19_F#2.wav",
+            "preset": "13",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_13_20_G2.wav",
+            "preset": "13",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_13_21_G#2.wav",
+            "preset": "13",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_13_22_A2.wav",
+            "preset": "13",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_13_23_A#2.wav",
+            "preset": "13",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_13_24_B2.wav",
+            "preset": "13",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_13_25_C3.wav",
+            "preset": "13",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_14_01_C1.wav",
+            "preset": "14",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_14_02_C#1.wav",
+            "preset": "14",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_14_03_D1.wav",
+            "preset": "14",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_14_04_D#1.wav",
+            "preset": "14",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_14_05_E1.wav",
+            "preset": "14",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_14_06_F1.wav",
+            "preset": "14",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_14_07_F#1.wav",
+            "preset": "14",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_14_08_G1.wav",
+            "preset": "14",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_14_09_G#1.wav",
+            "preset": "14",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_14_10_A1.wav",
+            "preset": "14",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_14_11_A#1.wav",
+            "preset": "14",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_14_12_B1.wav",
+            "preset": "14",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_14_13_C2.wav",
+            "preset": "14",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_14_14_C#2.wav",
+            "preset": "14",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_14_15_D2.wav",
+            "preset": "14",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_14_16_D#2.wav",
+            "preset": "14",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_14_17_E2.wav",
+            "preset": "14",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_14_18_F2.wav",
+            "preset": "14",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_14_19_F#2.wav",
+            "preset": "14",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_14_20_G2.wav",
+            "preset": "14",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_14_21_G#2.wav",
+            "preset": "14",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_14_22_A2.wav",
+            "preset": "14",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_14_23_A#2.wav",
+            "preset": "14",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_14_24_B2.wav",
+            "preset": "14",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_14_25_C3.wav",
+            "preset": "14",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_15_01_C2.wav",
+            "preset": "15",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_15_02_C#2.wav",
+            "preset": "15",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_15_03_D2.wav",
+            "preset": "15",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_15_04_D#2.wav",
+            "preset": "15",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_15_05_E2.wav",
+            "preset": "15",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_15_06_F2.wav",
+            "preset": "15",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_15_07_F#2.wav",
+            "preset": "15",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_15_08_G2.wav",
+            "preset": "15",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_15_09_G#2.wav",
+            "preset": "15",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_15_10_A2.wav",
+            "preset": "15",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_15_11_A#2.wav",
+            "preset": "15",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_15_12_B2.wav",
+            "preset": "15",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_15_13_C3.wav",
+            "preset": "15",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_15_14_C#3.wav",
+            "preset": "15",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_15_15_D3.wav",
+            "preset": "15",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_15_16_D#3.wav",
+            "preset": "15",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_15_17_E3.wav",
+            "preset": "15",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_15_18_F3.wav",
+            "preset": "15",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_15_19_F#3.wav",
+            "preset": "15",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_15_20_G3.wav",
+            "preset": "15",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_15_21_G#3.wav",
+            "preset": "15",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_15_22_A3.wav",
+            "preset": "15",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_15_23_A#3.wav",
+            "preset": "15",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_15_24_B3.wav",
+            "preset": "15",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_15_25_C4.wav",
+            "preset": "15",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_16_01_C1.wav",
+            "preset": "16",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_16_02_C#1.wav",
+            "preset": "16",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_16_03_D1.wav",
+            "preset": "16",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_16_04_D#1.wav",
+            "preset": "16",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_16_05_E1.wav",
+            "preset": "16",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_16_06_F1.wav",
+            "preset": "16",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_16_07_F#1.wav",
+            "preset": "16",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_16_08_G1.wav",
+            "preset": "16",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_16_09_G#1.wav",
+            "preset": "16",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_16_10_A1.wav",
+            "preset": "16",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_16_11_A#1.wav",
+            "preset": "16",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_16_12_B1.wav",
+            "preset": "16",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_16_13_C2.wav",
+            "preset": "16",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_16_14_C#2.wav",
+            "preset": "16",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_16_15_D2.wav",
+            "preset": "16",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_16_16_D#2.wav",
+            "preset": "16",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_16_17_E2.wav",
+            "preset": "16",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_16_18_F2.wav",
+            "preset": "16",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_16_19_F#2.wav",
+            "preset": "16",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_16_20_G2.wav",
+            "preset": "16",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_16_21_G#2.wav",
+            "preset": "16",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_16_22_A2.wav",
+            "preset": "16",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_16_23_A#2.wav",
+            "preset": "16",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_16_24_B2.wav",
+            "preset": "16",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_16_25_C3.wav",
+            "preset": "16",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_17_01_C1.wav",
+            "preset": "17",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_17_02_C#1.wav",
+            "preset": "17",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_17_03_D1.wav",
+            "preset": "17",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_17_04_D#1.wav",
+            "preset": "17",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_17_05_E1.wav",
+            "preset": "17",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_17_06_F1.wav",
+            "preset": "17",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_17_07_F#1.wav",
+            "preset": "17",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_17_08_G1.wav",
+            "preset": "17",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_17_09_G#1.wav",
+            "preset": "17",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_17_10_A1.wav",
+            "preset": "17",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_17_11_A#1.wav",
+            "preset": "17",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_17_12_B1.wav",
+            "preset": "17",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_17_13_C2.wav",
+            "preset": "17",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_17_14_C#2.wav",
+            "preset": "17",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_17_15_D2.wav",
+            "preset": "17",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_17_16_D#2.wav",
+            "preset": "17",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_17_17_E2.wav",
+            "preset": "17",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_17_18_F2.wav",
+            "preset": "17",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_17_19_F#2.wav",
+            "preset": "17",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_17_20_G2.wav",
+            "preset": "17",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_17_21_G#2.wav",
+            "preset": "17",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_17_22_A2.wav",
+            "preset": "17",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_17_23_A#2.wav",
+            "preset": "17",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_17_24_B2.wav",
+            "preset": "17",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_17_25_C3.wav",
+            "preset": "17",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_18_01_C2.wav",
+            "preset": "18",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_18_02_C#2.wav",
+            "preset": "18",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_18_03_D2.wav",
+            "preset": "18",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_18_04_D#2.wav",
+            "preset": "18",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_18_05_E2.wav",
+            "preset": "18",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_18_06_F2.wav",
+            "preset": "18",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_18_07_F#2.wav",
+            "preset": "18",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_18_08_G2.wav",
+            "preset": "18",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_18_09_G#2.wav",
+            "preset": "18",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_18_10_A2.wav",
+            "preset": "18",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_18_11_A#2.wav",
+            "preset": "18",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_18_12_B2.wav",
+            "preset": "18",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_18_13_C3.wav",
+            "preset": "18",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_18_14_C#3.wav",
+            "preset": "18",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_18_15_D3.wav",
+            "preset": "18",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_18_16_D#3.wav",
+            "preset": "18",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_18_17_E3.wav",
+            "preset": "18",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_18_18_F3.wav",
+            "preset": "18",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_18_19_F#3.wav",
+            "preset": "18",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_18_20_G3.wav",
+            "preset": "18",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_18_21_G#3.wav",
+            "preset": "18",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_18_22_A3.wav",
+            "preset": "18",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_18_23_A#3.wav",
+            "preset": "18",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_18_24_B3.wav",
+            "preset": "18",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_18_25_C4.wav",
+            "preset": "18",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_19_01_C2.wav",
+            "preset": "19",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_19_02_C#2.wav",
+            "preset": "19",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_19_03_D2.wav",
+            "preset": "19",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_19_04_D#2.wav",
+            "preset": "19",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_19_05_E2.wav",
+            "preset": "19",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_19_06_F2.wav",
+            "preset": "19",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_19_07_F#2.wav",
+            "preset": "19",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_19_08_G2.wav",
+            "preset": "19",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_19_09_G#2.wav",
+            "preset": "19",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_19_10_A2.wav",
+            "preset": "19",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_19_11_A#2.wav",
+            "preset": "19",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_19_12_B2.wav",
+            "preset": "19",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_19_13_C3.wav",
+            "preset": "19",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_19_14_C#3.wav",
+            "preset": "19",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_19_15_D3.wav",
+            "preset": "19",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_19_16_D#3.wav",
+            "preset": "19",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_19_17_E3.wav",
+            "preset": "19",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_19_18_F3.wav",
+            "preset": "19",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_19_19_F#3.wav",
+            "preset": "19",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_19_20_G3.wav",
+            "preset": "19",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_19_21_G#3.wav",
+            "preset": "19",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_19_22_A3.wav",
+            "preset": "19",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_19_23_A#3.wav",
+            "preset": "19",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_19_24_B3.wav",
+            "preset": "19",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_19_25_C4.wav",
+            "preset": "19",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_20_01_C2.wav",
+            "preset": "20",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_20_02_C#2.wav",
+            "preset": "20",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_20_03_D2.wav",
+            "preset": "20",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_20_04_D#2.wav",
+            "preset": "20",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_20_05_E2.wav",
+            "preset": "20",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_20_06_F2.wav",
+            "preset": "20",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_20_07_F#2.wav",
+            "preset": "20",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_20_08_G2.wav",
+            "preset": "20",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_20_09_G#2.wav",
+            "preset": "20",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_20_10_A2.wav",
+            "preset": "20",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_20_11_A#2.wav",
+            "preset": "20",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_20_12_B2.wav",
+            "preset": "20",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_20_13_C3.wav",
+            "preset": "20",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_20_14_C#3.wav",
+            "preset": "20",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_20_15_D3.wav",
+            "preset": "20",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_20_16_D#3.wav",
+            "preset": "20",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_20_17_E3.wav",
+            "preset": "20",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_20_18_F3.wav",
+            "preset": "20",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_20_19_F#3.wav",
+            "preset": "20",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_20_20_G3.wav",
+            "preset": "20",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_20_21_G#3.wav",
+            "preset": "20",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_20_22_A3.wav",
+            "preset": "20",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_20_23_A#3.wav",
+            "preset": "20",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_20_24_B3.wav",
+            "preset": "20",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_20_25_C4.wav",
+            "preset": "20",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_21_01_C1.wav",
+            "preset": "21",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_21_02_C#1.wav",
+            "preset": "21",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_21_03_D1.wav",
+            "preset": "21",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_21_04_D#1.wav",
+            "preset": "21",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_21_05_E1.wav",
+            "preset": "21",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_21_06_F1.wav",
+            "preset": "21",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_21_07_F#1.wav",
+            "preset": "21",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_21_08_G1.wav",
+            "preset": "21",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_21_09_G#1.wav",
+            "preset": "21",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_21_10_A1.wav",
+            "preset": "21",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_21_11_A#1.wav",
+            "preset": "21",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_21_12_B1.wav",
+            "preset": "21",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_21_13_C2.wav",
+            "preset": "21",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_21_14_C#2.wav",
+            "preset": "21",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_21_15_D2.wav",
+            "preset": "21",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_21_16_D#2.wav",
+            "preset": "21",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_21_17_E2.wav",
+            "preset": "21",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_21_18_F2.wav",
+            "preset": "21",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_21_19_F#2.wav",
+            "preset": "21",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_21_20_G2.wav",
+            "preset": "21",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_21_21_G#2.wav",
+            "preset": "21",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_21_22_A2.wav",
+            "preset": "21",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_21_23_A#2.wav",
+            "preset": "21",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_21_24_B2.wav",
+            "preset": "21",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_21_25_C3.wav",
+            "preset": "21",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_22_01_C1.wav",
+            "preset": "22",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_22_02_C#1.wav",
+            "preset": "22",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_22_03_D1.wav",
+            "preset": "22",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_22_04_D#1.wav",
+            "preset": "22",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_22_05_E1.wav",
+            "preset": "22",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_22_06_F1.wav",
+            "preset": "22",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_22_07_F#1.wav",
+            "preset": "22",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_22_08_G1.wav",
+            "preset": "22",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_22_09_G#1.wav",
+            "preset": "22",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_22_10_A1.wav",
+            "preset": "22",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_22_11_A#1.wav",
+            "preset": "22",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_22_12_B1.wav",
+            "preset": "22",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_22_13_C2.wav",
+            "preset": "22",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_22_14_C#2.wav",
+            "preset": "22",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_22_15_D2.wav",
+            "preset": "22",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_22_16_D#2.wav",
+            "preset": "22",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_22_17_E2.wav",
+            "preset": "22",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_22_18_F2.wav",
+            "preset": "22",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_22_19_F#2.wav",
+            "preset": "22",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_22_20_G2.wav",
+            "preset": "22",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_22_21_G#2.wav",
+            "preset": "22",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_22_22_A2.wav",
+            "preset": "22",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_22_23_A#2.wav",
+            "preset": "22",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_22_24_B2.wav",
+            "preset": "22",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_22_25_C3.wav",
+            "preset": "22",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_23_01_C2.wav",
+            "preset": "23",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_23_02_C#2.wav",
+            "preset": "23",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_23_03_D2.wav",
+            "preset": "23",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_23_04_D#2.wav",
+            "preset": "23",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_23_05_E2.wav",
+            "preset": "23",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_23_06_F2.wav",
+            "preset": "23",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_23_07_F#2.wav",
+            "preset": "23",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_23_08_G2.wav",
+            "preset": "23",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_23_09_G#2.wav",
+            "preset": "23",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_23_10_A2.wav",
+            "preset": "23",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_23_11_A#2.wav",
+            "preset": "23",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_23_12_B2.wav",
+            "preset": "23",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_23_13_C3.wav",
+            "preset": "23",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_23_14_C#3.wav",
+            "preset": "23",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_23_15_D3.wav",
+            "preset": "23",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_23_16_D#3.wav",
+            "preset": "23",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_23_17_E3.wav",
+            "preset": "23",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_23_18_F3.wav",
+            "preset": "23",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_23_19_F#3.wav",
+            "preset": "23",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_23_20_G3.wav",
+            "preset": "23",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_23_21_G#3.wav",
+            "preset": "23",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_23_22_A3.wav",
+            "preset": "23",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_23_23_A#3.wav",
+            "preset": "23",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_23_24_B3.wav",
+            "preset": "23",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_23_25_C4.wav",
+            "preset": "23",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_24_01_C2.wav",
+            "preset": "24",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_24_02_C#2.wav",
+            "preset": "24",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_24_03_D2.wav",
+            "preset": "24",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_24_04_D#2.wav",
+            "preset": "24",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_24_05_E2.wav",
+            "preset": "24",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_24_06_F2.wav",
+            "preset": "24",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_24_07_F#2.wav",
+            "preset": "24",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_24_08_G2.wav",
+            "preset": "24",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_24_09_G#2.wav",
+            "preset": "24",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_24_10_A2.wav",
+            "preset": "24",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_24_11_A#2.wav",
+            "preset": "24",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_24_12_B2.wav",
+            "preset": "24",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_24_13_C3.wav",
+            "preset": "24",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_24_14_C#3.wav",
+            "preset": "24",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_24_15_D3.wav",
+            "preset": "24",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_24_16_D#3.wav",
+            "preset": "24",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_24_17_E3.wav",
+            "preset": "24",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_24_18_F3.wav",
+            "preset": "24",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_24_19_F#3.wav",
+            "preset": "24",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_24_20_G3.wav",
+            "preset": "24",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_24_21_G#3.wav",
+            "preset": "24",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_24_22_A3.wav",
+            "preset": "24",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_24_23_A#3.wav",
+            "preset": "24",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_24_24_B3.wav",
+            "preset": "24",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_24_25_C4.wav",
+            "preset": "24",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_25_01_C1.wav",
+            "preset": "25",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_25_02_C#1.wav",
+            "preset": "25",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_25_03_D1.wav",
+            "preset": "25",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_25_04_D#1.wav",
+            "preset": "25",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_25_05_E1.wav",
+            "preset": "25",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_25_06_F1.wav",
+            "preset": "25",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_25_07_F#1.wav",
+            "preset": "25",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_25_08_G1.wav",
+            "preset": "25",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_25_09_G#1.wav",
+            "preset": "25",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_25_10_A1.wav",
+            "preset": "25",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_25_11_A#1.wav",
+            "preset": "25",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_25_12_B1.wav",
+            "preset": "25",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_25_13_C2.wav",
+            "preset": "25",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_25_14_C#2.wav",
+            "preset": "25",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_25_15_D2.wav",
+            "preset": "25",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_25_16_D#2.wav",
+            "preset": "25",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_25_17_E2.wav",
+            "preset": "25",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_25_18_F2.wav",
+            "preset": "25",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_25_19_F#2.wav",
+            "preset": "25",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_25_20_G2.wav",
+            "preset": "25",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_25_21_G#2.wav",
+            "preset": "25",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_25_22_A2.wav",
+            "preset": "25",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_25_23_A#2.wav",
+            "preset": "25",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_25_24_B2.wav",
+            "preset": "25",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_25_25_C3.wav",
+            "preset": "25",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_26_01_C2.wav",
+            "preset": "26",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_26_02_C#2.wav",
+            "preset": "26",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_26_03_D2.wav",
+            "preset": "26",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_26_04_D#2.wav",
+            "preset": "26",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_26_05_E2.wav",
+            "preset": "26",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_26_06_F2.wav",
+            "preset": "26",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_26_07_F#2.wav",
+            "preset": "26",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_26_08_G2.wav",
+            "preset": "26",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_26_09_G#2.wav",
+            "preset": "26",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_26_10_A2.wav",
+            "preset": "26",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_26_11_A#2.wav",
+            "preset": "26",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_26_12_B2.wav",
+            "preset": "26",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_26_13_C3.wav",
+            "preset": "26",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_26_14_C#3.wav",
+            "preset": "26",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_26_15_D3.wav",
+            "preset": "26",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_26_16_D#3.wav",
+            "preset": "26",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_26_17_E3.wav",
+            "preset": "26",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_26_18_F3.wav",
+            "preset": "26",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_26_19_F#3.wav",
+            "preset": "26",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_26_20_G3.wav",
+            "preset": "26",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_26_21_G#3.wav",
+            "preset": "26",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_26_22_A3.wav",
+            "preset": "26",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_26_23_A#3.wav",
+            "preset": "26",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_26_24_B3.wav",
+            "preset": "26",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_26_25_C4.wav",
+            "preset": "26",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_27_01_C2.wav",
+            "preset": "27",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_27_02_C#2.wav",
+            "preset": "27",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_27_03_D2.wav",
+            "preset": "27",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_27_04_D#2.wav",
+            "preset": "27",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_27_05_E2.wav",
+            "preset": "27",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_27_06_F2.wav",
+            "preset": "27",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_27_07_F#2.wav",
+            "preset": "27",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_27_08_G2.wav",
+            "preset": "27",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_27_09_G#2.wav",
+            "preset": "27",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_27_10_A2.wav",
+            "preset": "27",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_27_11_A#2.wav",
+            "preset": "27",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_27_12_B2.wav",
+            "preset": "27",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_27_13_C3.wav",
+            "preset": "27",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_27_14_C#3.wav",
+            "preset": "27",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_27_15_D3.wav",
+            "preset": "27",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_27_16_D#3.wav",
+            "preset": "27",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_27_17_E3.wav",
+            "preset": "27",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_27_18_F3.wav",
+            "preset": "27",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_27_19_F#3.wav",
+            "preset": "27",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_27_20_G3.wav",
+            "preset": "27",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_27_21_G#3.wav",
+            "preset": "27",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_27_22_A3.wav",
+            "preset": "27",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_27_23_A#3.wav",
+            "preset": "27",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_27_24_B3.wav",
+            "preset": "27",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_27_25_C4.wav",
+            "preset": "27",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_28_01_C2.wav",
+            "preset": "28",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_28_02_C#2.wav",
+            "preset": "28",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_28_03_D2.wav",
+            "preset": "28",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_28_04_D#2.wav",
+            "preset": "28",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_28_05_E2.wav",
+            "preset": "28",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_28_06_F2.wav",
+            "preset": "28",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_28_07_F#2.wav",
+            "preset": "28",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_28_08_G2.wav",
+            "preset": "28",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_28_09_G#2.wav",
+            "preset": "28",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_28_10_A2.wav",
+            "preset": "28",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_28_11_A#2.wav",
+            "preset": "28",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_28_12_B2.wav",
+            "preset": "28",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_28_13_C3.wav",
+            "preset": "28",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_28_14_C#3.wav",
+            "preset": "28",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_28_15_D3.wav",
+            "preset": "28",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_28_16_D#3.wav",
+            "preset": "28",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_28_17_E3.wav",
+            "preset": "28",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_28_18_F3.wav",
+            "preset": "28",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_28_19_F#3.wav",
+            "preset": "28",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_28_20_G3.wav",
+            "preset": "28",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_28_21_G#3.wav",
+            "preset": "28",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_28_22_A3.wav",
+            "preset": "28",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_28_23_A#3.wav",
+            "preset": "28",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_28_24_B3.wav",
+            "preset": "28",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_28_25_C4.wav",
+            "preset": "28",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_29_01_C2.wav",
+            "preset": "29",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_29_02_C#2.wav",
+            "preset": "29",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_29_03_D2.wav",
+            "preset": "29",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_29_04_D#2.wav",
+            "preset": "29",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_29_05_E2.wav",
+            "preset": "29",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_29_06_F2.wav",
+            "preset": "29",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_29_07_F#2.wav",
+            "preset": "29",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_29_08_G2.wav",
+            "preset": "29",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_29_09_G#2.wav",
+            "preset": "29",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_29_10_A2.wav",
+            "preset": "29",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_29_11_A#2.wav",
+            "preset": "29",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_29_12_B2.wav",
+            "preset": "29",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_29_13_C3.wav",
+            "preset": "29",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_29_14_C#3.wav",
+            "preset": "29",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_29_15_D3.wav",
+            "preset": "29",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_29_16_D#3.wav",
+            "preset": "29",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_29_17_E3.wav",
+            "preset": "29",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_29_18_F3.wav",
+            "preset": "29",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_29_19_F#3.wav",
+            "preset": "29",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_29_20_G3.wav",
+            "preset": "29",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_29_21_G#3.wav",
+            "preset": "29",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_29_22_A3.wav",
+            "preset": "29",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_29_23_A#3.wav",
+            "preset": "29",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_29_24_B3.wav",
+            "preset": "29",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_29_25_C4.wav",
+            "preset": "29",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_30_01_C1.wav",
+            "preset": "30",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_30_02_C#1.wav",
+            "preset": "30",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_30_03_D1.wav",
+            "preset": "30",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_30_04_D#1.wav",
+            "preset": "30",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_30_05_E1.wav",
+            "preset": "30",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_30_06_F1.wav",
+            "preset": "30",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_30_07_F#1.wav",
+            "preset": "30",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_30_08_G1.wav",
+            "preset": "30",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_30_09_G#1.wav",
+            "preset": "30",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_30_10_A1.wav",
+            "preset": "30",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_30_11_A#1.wav",
+            "preset": "30",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_30_12_B1.wav",
+            "preset": "30",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_30_13_C2.wav",
+            "preset": "30",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_30_14_C#2.wav",
+            "preset": "30",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_30_15_D2.wav",
+            "preset": "30",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_30_16_D#2.wav",
+            "preset": "30",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_30_17_E2.wav",
+            "preset": "30",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_30_18_F2.wav",
+            "preset": "30",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_30_19_F#2.wav",
+            "preset": "30",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_30_20_G2.wav",
+            "preset": "30",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_30_21_G#2.wav",
+            "preset": "30",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_30_22_A2.wav",
+            "preset": "30",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_30_23_A#2.wav",
+            "preset": "30",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_30_24_B2.wav",
+            "preset": "30",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_30_25_C3.wav",
+            "preset": "30",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_31_01_C2.wav",
+            "preset": "31",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_31_02_C#2.wav",
+            "preset": "31",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_31_03_D2.wav",
+            "preset": "31",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_31_04_D#2.wav",
+            "preset": "31",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_31_05_E2.wav",
+            "preset": "31",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_31_06_F2.wav",
+            "preset": "31",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_31_07_F#2.wav",
+            "preset": "31",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_31_08_G2.wav",
+            "preset": "31",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_31_09_G#2.wav",
+            "preset": "31",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_31_10_A2.wav",
+            "preset": "31",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_31_11_A#2.wav",
+            "preset": "31",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_31_12_B2.wav",
+            "preset": "31",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_31_13_C3.wav",
+            "preset": "31",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_31_14_C#3.wav",
+            "preset": "31",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_31_15_D3.wav",
+            "preset": "31",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_31_16_D#3.wav",
+            "preset": "31",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_31_17_E3.wav",
+            "preset": "31",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_31_18_F3.wav",
+            "preset": "31",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_31_19_F#3.wav",
+            "preset": "31",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_31_20_G3.wav",
+            "preset": "31",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_31_21_G#3.wav",
+            "preset": "31",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_31_22_A3.wav",
+            "preset": "31",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_31_23_A#3.wav",
+            "preset": "31",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_31_24_B3.wav",
+            "preset": "31",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_31_25_C4.wav",
+            "preset": "31",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_32_01_C2.wav",
+            "preset": "32",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_32_02_C#2.wav",
+            "preset": "32",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_32_03_D2.wav",
+            "preset": "32",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_32_04_D#2.wav",
+            "preset": "32",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_32_05_E2.wav",
+            "preset": "32",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_32_06_F2.wav",
+            "preset": "32",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_32_07_F#2.wav",
+            "preset": "32",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_32_08_G2.wav",
+            "preset": "32",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_32_09_G#2.wav",
+            "preset": "32",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_32_10_A2.wav",
+            "preset": "32",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_32_11_A#2.wav",
+            "preset": "32",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_32_12_B2.wav",
+            "preset": "32",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_32_13_C3.wav",
+            "preset": "32",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_32_14_C#3.wav",
+            "preset": "32",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_32_15_D3.wav",
+            "preset": "32",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_32_16_D#3.wav",
+            "preset": "32",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_32_17_E3.wav",
+            "preset": "32",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_32_18_F3.wav",
+            "preset": "32",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_32_19_F#3.wav",
+            "preset": "32",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_32_20_G3.wav",
+            "preset": "32",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_32_21_G#3.wav",
+            "preset": "32",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_32_22_A3.wav",
+            "preset": "32",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_32_23_A#3.wav",
+            "preset": "32",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_32_24_B3.wav",
+            "preset": "32",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_32_25_C4.wav",
+            "preset": "32",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_33_01_C2.wav",
+            "preset": "33",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_33_02_C#2.wav",
+            "preset": "33",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_33_03_D2.wav",
+            "preset": "33",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_33_04_D#2.wav",
+            "preset": "33",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_33_05_E2.wav",
+            "preset": "33",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_33_06_F2.wav",
+            "preset": "33",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_33_07_F#2.wav",
+            "preset": "33",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_33_08_G2.wav",
+            "preset": "33",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_33_09_G#2.wav",
+            "preset": "33",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_33_10_A2.wav",
+            "preset": "33",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_33_11_A#2.wav",
+            "preset": "33",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_33_12_B2.wav",
+            "preset": "33",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_33_13_C3.wav",
+            "preset": "33",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_33_14_C#3.wav",
+            "preset": "33",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_33_15_D3.wav",
+            "preset": "33",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_33_16_D#3.wav",
+            "preset": "33",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_33_17_E3.wav",
+            "preset": "33",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_33_18_F3.wav",
+            "preset": "33",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_33_19_F#3.wav",
+            "preset": "33",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_33_20_G3.wav",
+            "preset": "33",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_33_21_G#3.wav",
+            "preset": "33",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_33_22_A3.wav",
+            "preset": "33",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_33_23_A#3.wav",
+            "preset": "33",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_33_24_B3.wav",
+            "preset": "33",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_33_25_C4.wav",
+            "preset": "33",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_34_01_C2.wav",
+            "preset": "34",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_34_02_C#2.wav",
+            "preset": "34",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_34_03_D2.wav",
+            "preset": "34",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_34_04_D#2.wav",
+            "preset": "34",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_34_05_E2.wav",
+            "preset": "34",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_34_06_F2.wav",
+            "preset": "34",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_34_07_F#2.wav",
+            "preset": "34",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_34_08_G2.wav",
+            "preset": "34",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_34_09_G#2.wav",
+            "preset": "34",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_34_10_A2.wav",
+            "preset": "34",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_34_11_A#2.wav",
+            "preset": "34",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_34_12_B2.wav",
+            "preset": "34",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_34_13_C3.wav",
+            "preset": "34",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_34_14_C#3.wav",
+            "preset": "34",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_34_15_D3.wav",
+            "preset": "34",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_34_16_D#3.wav",
+            "preset": "34",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_34_17_E3.wav",
+            "preset": "34",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_34_18_F3.wav",
+            "preset": "34",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_34_19_F#3.wav",
+            "preset": "34",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_34_20_G3.wav",
+            "preset": "34",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_34_21_G#3.wav",
+            "preset": "34",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_34_22_A3.wav",
+            "preset": "34",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_34_23_A#3.wav",
+            "preset": "34",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_34_24_B3.wav",
+            "preset": "34",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_34_25_C4.wav",
+            "preset": "34",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_35_01_C2.wav",
+            "preset": "35",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_35_02_C#2.wav",
+            "preset": "35",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_35_03_D2.wav",
+            "preset": "35",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_35_04_D#2.wav",
+            "preset": "35",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_35_05_E2.wav",
+            "preset": "35",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_35_06_F2.wav",
+            "preset": "35",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_35_07_F#2.wav",
+            "preset": "35",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_35_08_G2.wav",
+            "preset": "35",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_35_09_G#2.wav",
+            "preset": "35",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_35_10_A2.wav",
+            "preset": "35",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_35_11_A#2.wav",
+            "preset": "35",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_35_12_B2.wav",
+            "preset": "35",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_35_13_C3.wav",
+            "preset": "35",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_35_14_C#3.wav",
+            "preset": "35",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_35_15_D3.wav",
+            "preset": "35",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_35_16_D#3.wav",
+            "preset": "35",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_35_17_E3.wav",
+            "preset": "35",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_35_18_F3.wav",
+            "preset": "35",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_35_19_F#3.wav",
+            "preset": "35",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_35_20_G3.wav",
+            "preset": "35",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_35_21_G#3.wav",
+            "preset": "35",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_35_22_A3.wav",
+            "preset": "35",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_35_23_A#3.wav",
+            "preset": "35",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_35_24_B3.wav",
+            "preset": "35",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_35_25_C4.wav",
+            "preset": "35",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_36_01_C1.wav",
+            "preset": "36",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_36_02_C#1.wav",
+            "preset": "36",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_36_03_D1.wav",
+            "preset": "36",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_36_04_D#1.wav",
+            "preset": "36",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_36_05_E1.wav",
+            "preset": "36",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_36_06_F1.wav",
+            "preset": "36",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_36_07_F#1.wav",
+            "preset": "36",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_36_08_G1.wav",
+            "preset": "36",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_36_09_G#1.wav",
+            "preset": "36",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_36_10_A1.wav",
+            "preset": "36",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_36_11_A#1.wav",
+            "preset": "36",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_36_12_B1.wav",
+            "preset": "36",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_36_13_C2.wav",
+            "preset": "36",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_36_14_C#2.wav",
+            "preset": "36",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_36_15_D2.wav",
+            "preset": "36",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_36_16_D#2.wav",
+            "preset": "36",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_36_17_E2.wav",
+            "preset": "36",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_36_18_F2.wav",
+            "preset": "36",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_36_19_F#2.wav",
+            "preset": "36",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_36_20_G2.wav",
+            "preset": "36",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_36_21_G#2.wav",
+            "preset": "36",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_36_22_A2.wav",
+            "preset": "36",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_36_23_A#2.wav",
+            "preset": "36",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_36_24_B2.wav",
+            "preset": "36",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_36_25_C3.wav",
+            "preset": "36",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_37_01_C1.wav",
+            "preset": "37",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_37_02_C#1.wav",
+            "preset": "37",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_37_03_D1.wav",
+            "preset": "37",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_37_04_D#1.wav",
+            "preset": "37",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_37_05_E1.wav",
+            "preset": "37",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_37_06_F1.wav",
+            "preset": "37",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_37_07_F#1.wav",
+            "preset": "37",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_37_08_G1.wav",
+            "preset": "37",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_37_09_G#1.wav",
+            "preset": "37",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_37_10_A1.wav",
+            "preset": "37",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_37_11_A#1.wav",
+            "preset": "37",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_37_12_B1.wav",
+            "preset": "37",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_37_13_C2.wav",
+            "preset": "37",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_37_14_C#2.wav",
+            "preset": "37",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_37_15_D2.wav",
+            "preset": "37",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_37_16_D#2.wav",
+            "preset": "37",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_37_17_E2.wav",
+            "preset": "37",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_37_18_F2.wav",
+            "preset": "37",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_37_19_F#2.wav",
+            "preset": "37",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_37_20_G2.wav",
+            "preset": "37",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_37_21_G#2.wav",
+            "preset": "37",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_37_22_A2.wav",
+            "preset": "37",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_37_23_A#2.wav",
+            "preset": "37",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_37_24_B2.wav",
+            "preset": "37",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_37_25_C3.wav",
+            "preset": "37",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_38_01_C1.wav",
+            "preset": "38",
+            "note": "C1"
+        },
+        {
+            "file": "syn_se1_preset_38_02_C#1.wav",
+            "preset": "38",
+            "note": "C#1"
+        },
+        {
+            "file": "syn_se1_preset_38_03_D1.wav",
+            "preset": "38",
+            "note": "D1"
+        },
+        {
+            "file": "syn_se1_preset_38_04_D#1.wav",
+            "preset": "38",
+            "note": "D#1"
+        },
+        {
+            "file": "syn_se1_preset_38_05_E1.wav",
+            "preset": "38",
+            "note": "E1"
+        },
+        {
+            "file": "syn_se1_preset_38_06_F1.wav",
+            "preset": "38",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_38_07_F#1.wav",
+            "preset": "38",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_38_08_G1.wav",
+            "preset": "38",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_38_09_G#1.wav",
+            "preset": "38",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_38_10_A1.wav",
+            "preset": "38",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_38_11_A#1.wav",
+            "preset": "38",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_38_12_B1.wav",
+            "preset": "38",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_38_13_C2.wav",
+            "preset": "38",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_38_14_C#2.wav",
+            "preset": "38",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_38_15_D2.wav",
+            "preset": "38",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_38_16_D#2.wav",
+            "preset": "38",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_38_17_E2.wav",
+            "preset": "38",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_38_18_F2.wav",
+            "preset": "38",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_38_19_F#2.wav",
+            "preset": "38",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_38_20_G2.wav",
+            "preset": "38",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_38_21_G#2.wav",
+            "preset": "38",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_38_22_A2.wav",
+            "preset": "38",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_38_23_A#2.wav",
+            "preset": "38",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_38_24_B2.wav",
+            "preset": "38",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_38_25_C3.wav",
+            "preset": "38",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_39_01_C2.wav",
+            "preset": "39",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_39_02_C#2.wav",
+            "preset": "39",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_39_03_D2.wav",
+            "preset": "39",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_39_04_D#2.wav",
+            "preset": "39",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_39_05_E2.wav",
+            "preset": "39",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_39_06_F2.wav",
+            "preset": "39",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_39_07_F#2.wav",
+            "preset": "39",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_39_08_G2.wav",
+            "preset": "39",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_39_09_G#2.wav",
+            "preset": "39",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_39_10_A2.wav",
+            "preset": "39",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_39_11_A#2.wav",
+            "preset": "39",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_39_12_B2.wav",
+            "preset": "39",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_39_13_C3.wav",
+            "preset": "39",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_39_14_C#3.wav",
+            "preset": "39",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_39_15_D3.wav",
+            "preset": "39",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_39_16_D#3.wav",
+            "preset": "39",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_39_17_E3.wav",
+            "preset": "39",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_39_18_F3.wav",
+            "preset": "39",
+            "note": "F3"
+        },
+        {
+            "file": "syn_se1_preset_39_19_F#3.wav",
+            "preset": "39",
+            "note": "F#3"
+        },
+        {
+            "file": "syn_se1_preset_39_20_G3.wav",
+            "preset": "39",
+            "note": "G3"
+        },
+        {
+            "file": "syn_se1_preset_39_21_G#3.wav",
+            "preset": "39",
+            "note": "G#3"
+        },
+        {
+            "file": "syn_se1_preset_39_22_A3.wav",
+            "preset": "39",
+            "note": "A3"
+        },
+        {
+            "file": "syn_se1_preset_39_23_A#3.wav",
+            "preset": "39",
+            "note": "A#3"
+        },
+        {
+            "file": "syn_se1_preset_39_24_B3.wav",
+            "preset": "39",
+            "note": "B3"
+        },
+        {
+            "file": "syn_se1_preset_39_25_C4.wav",
+            "preset": "39",
+            "note": "C4"
+        },
+        {
+            "file": "syn_se1_preset_40_01_F1.wav",
+            "preset": "40",
+            "note": "F1"
+        },
+        {
+            "file": "syn_se1_preset_40_02_F#1.wav",
+            "preset": "40",
+            "note": "F#1"
+        },
+        {
+            "file": "syn_se1_preset_40_03_G1.wav",
+            "preset": "40",
+            "note": "G1"
+        },
+        {
+            "file": "syn_se1_preset_40_04_G#1.wav",
+            "preset": "40",
+            "note": "G#1"
+        },
+        {
+            "file": "syn_se1_preset_40_05_A1.wav",
+            "preset": "40",
+            "note": "A1"
+        },
+        {
+            "file": "syn_se1_preset_40_06_A#1.wav",
+            "preset": "40",
+            "note": "A#1"
+        },
+        {
+            "file": "syn_se1_preset_40_07_B1.wav",
+            "preset": "40",
+            "note": "B1"
+        },
+        {
+            "file": "syn_se1_preset_40_08_C2.wav",
+            "preset": "40",
+            "note": "C2"
+        },
+        {
+            "file": "syn_se1_preset_40_09_C#2.wav",
+            "preset": "40",
+            "note": "C#2"
+        },
+        {
+            "file": "syn_se1_preset_40_10_D2.wav",
+            "preset": "40",
+            "note": "D2"
+        },
+        {
+            "file": "syn_se1_preset_40_11_D#2.wav",
+            "preset": "40",
+            "note": "D#2"
+        },
+        {
+            "file": "syn_se1_preset_40_12_E2.wav",
+            "preset": "40",
+            "note": "E2"
+        },
+        {
+            "file": "syn_se1_preset_40_13_F2.wav",
+            "preset": "40",
+            "note": "F2"
+        },
+        {
+            "file": "syn_se1_preset_40_14_F#2.wav",
+            "preset": "40",
+            "note": "F#2"
+        },
+        {
+            "file": "syn_se1_preset_40_15_G2.wav",
+            "preset": "40",
+            "note": "G2"
+        },
+        {
+            "file": "syn_se1_preset_40_16_G#2.wav",
+            "preset": "40",
+            "note": "G#2"
+        },
+        {
+            "file": "syn_se1_preset_40_17_A2.wav",
+            "preset": "40",
+            "note": "A2"
+        },
+        {
+            "file": "syn_se1_preset_40_18_A#2.wav",
+            "preset": "40",
+            "note": "A#2"
+        },
+        {
+            "file": "syn_se1_preset_40_19_B2.wav",
+            "preset": "40",
+            "note": "B2"
+        },
+        {
+            "file": "syn_se1_preset_40_20_C3.wav",
+            "preset": "40",
+            "note": "C3"
+        },
+        {
+            "file": "syn_se1_preset_40_21_C#3.wav",
+            "preset": "40",
+            "note": "C#3"
+        },
+        {
+            "file": "syn_se1_preset_40_22_D3.wav",
+            "preset": "40",
+            "note": "D3"
+        },
+        {
+            "file": "syn_se1_preset_40_23_D#3.wav",
+            "preset": "40",
+            "note": "D#3"
+        },
+        {
+            "file": "syn_se1_preset_40_24_E3.wav",
+            "preset": "40",
+            "note": "E3"
+        },
+        {
+            "file": "syn_se1_preset_40_25_F3.wav",
+            "preset": "40",
+            "note": "F3"
+        }
+    ]
+}
